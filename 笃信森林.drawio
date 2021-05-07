@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T07:31:05.075Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="Vd4Nn3qf-ghbj7lbYbsV" version="14.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T07:44:22.334Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="TvmkiQTOU72uSkZOqiRb" version="14.4.5" type="github">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
-    <mxGraphModel dx="1422" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2522" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="64Vx9FYo9tibzsEboU_u-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="40" y="70" width="2060" height="170" as="geometry" />
+          <mxGeometry x="-110" y="70" width="2480" height="170" as="geometry" />
         </mxCell>
         <mxCell id="64Vx9FYo9tibzsEboU_u-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="64Vx9FYo9tibzsEboU_u-9" target="64Vx9FYo9tibzsEboU_u-20">
           <mxGeometry relative="1" as="geometry" />
@@ -29,10 +29,10 @@
           <mxGeometry x="765" y="480" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="64Vx9FYo9tibzsEboU_u-12" value="只能单纯的写信&lt;br&gt;&lt;br&gt;&lt;br&gt;审核完成一笔信件才有一笔收入　+5元" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="940" y="232.5" width="160" height="215" as="geometry" />
+          <mxGeometry x="940" y="232.5" width="240" height="215" as="geometry" />
         </mxCell>
         <mxCell id="64Vx9FYo9tibzsEboU_u-14" value="１．可以作为普通学生　＋５元&lt;br&gt;&lt;br&gt;２．可以作为（学校）的代理，由我们平台进行指定，只要该学校的学生完成一笔信件，该学生自动获取+0.5元" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="940" y="461.25" width="180" height="168.75" as="geometry" />
+          <mxGeometry x="940" y="461.25" width="250" height="168.75" as="geometry" />
         </mxCell>
         <mxCell id="64Vx9FYo9tibzsEboU_u-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="80" y="70" width="500" height="550" as="geometry" />
@@ -127,7 +127,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="64Vx9FYo9tibzsEboU_u-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="97.5" width="170" height="780" as="geometry" />
+          <mxGeometry x="1370" y="70" width="170" height="807.5" as="geometry" />
         </mxCell>
         <mxCell id="64Vx9FYo9tibzsEboU_u-5" value="服务" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1415" y="110" width="80" height="80" as="geometry" />
@@ -161,6 +161,78 @@
         </mxCell>
         <mxCell id="64Vx9FYo9tibzsEboU_u-57" value="之前只是讲了　　家长－孩子－大学生－写信这一个服务的叠加问题&lt;br&gt;&lt;br&gt;比如年服务，育儿、陪读、信件图册，这些其实是和大学生不一定有关系的服务内容。。&lt;br&gt;&lt;br&gt;&lt;br&gt;这里也存在一个服务时长、服务叠加的问题。。&lt;br&gt;&lt;br&gt;&lt;br&gt;１种方案，前期先不体现除了写信外的其他服务，也就是我们前置先只做写信的这个服务流程&lt;br&gt;&lt;br&gt;２种方案，全部都做，这样家长端的展示，就不能只展示　笔友服务时长了，还有其他的各个维度的服务时长" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;strokeColor=#36393d;fillColor=#ffcccc;" vertex="1" parent="1">
           <mxGeometry x="1187.5" y="900" width="535" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="64Vx9FYo9tibzsEboU_u-59" target="64Vx9FYo9tibzsEboU_u-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="64Vx9FYo9tibzsEboU_u-59" target="64Vx9FYo9tibzsEboU_u-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="64Vx9FYo9tibzsEboU_u-59" target="64Vx9FYo9tibzsEboU_u-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="64Vx9FYo9tibzsEboU_u-59" target="64Vx9FYo9tibzsEboU_u-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-59" value="分成的架构逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1685" width="85" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-61" value="大学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-62" value="介绍人、机构(可以认为也是家长角色)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1677.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-63" value="代理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1805" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-64" value="普通家长用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1965" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="64Vx9FYo9tibzsEboU_u-69" target="64Vx9FYo9tibzsEboU_u-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-69" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="1412.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="64Vx9FYo9tibzsEboU_u-71" target="64Vx9FYo9tibzsEboU_u-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="64Vx9FYo9tibzsEboU_u-71" target="64Vx9FYo9tibzsEboU_u-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="64Vx9FYo9tibzsEboU_u-71" target="64Vx9FYo9tibzsEboU_u-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-71" value="普通家长Ｃ下单，并完成支付" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1540" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="64Vx9FYo9tibzsEboU_u-74" target="64Vx9FYo9tibzsEboU_u-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-74" value="介绍人需要分成" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="787.5" y="1700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.507;entryY=0.11;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="64Vx9FYo9tibzsEboU_u-77" target="64Vx9FYo9tibzsEboU_u-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-77" value="大学生需要分成" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="1710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-79" value="包括两种：写信的大学生分５元&lt;br&gt;&lt;br&gt;如果学生所在的学校有代理大学生，&lt;br&gt;代理大学生分成0.5元&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;按照实际完成的每一封信件，进行计费" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="1830" width="300" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-81" value="分成逻辑：&lt;br&gt;Ａ介绍Ｂ，&lt;br&gt;Ｂ介绍Ｃ&lt;br&gt;&lt;br&gt;&lt;br&gt;当Ｃ下单的时候，Ｂ分２０元&lt;br&gt;Ａ分５元&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Ｃ支付完成后，立即分成给Ｂ和Ａ" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="1835" width="405" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="64Vx9FYo9tibzsEboU_u-85" target="64Vx9FYo9tibzsEboU_u-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-85" value="代理需要分成" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="64Vx9FYo9tibzsEboU_u-87" value="按照家长下单时候选择的　栈点，看下这个栈点属于哪个代理人的&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;也是立即分成" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1415" y="1820" width="390" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
